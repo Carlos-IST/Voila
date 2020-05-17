@@ -6,7 +6,7 @@ plotly-express
 voila
 statsmodels
 numpy
-dateutil
+dateutil.parser
 seaborn
 scipy
 sklearn
